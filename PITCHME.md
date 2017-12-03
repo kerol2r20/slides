@@ -5,8 +5,8 @@
 ---
 
 ## Tools
-1. Jieba 分詞
-1. Word2Vec 量化
+1. Jieba
+1. Word2Vec
 1. RNN(LSTM)
 1. GAN
 1. Seq2Seq
