@@ -22,9 +22,12 @@
 ### Word2Vec
 將詞彙(word)投影到一個高維度的平面上，如果兩詞彙之間的距離越近，代表兩詞彙的意義越相近。
 
++++
+
 #### 訓練方式
 訓練大量文章之**前後文**，找到詞彙之間對應的平面關係。
+![](http://mccormickml.com/assets/word2vec/training_data.png)
 
 +++
 
-![](http://mccormickml.com/assets/word2vec/training_data.png)
+
