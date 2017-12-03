@@ -82,3 +82,8 @@ Label: 某種情緒的分數  
 Feature: 新聞內文  
 Label: 新聞標題  
 使用Seq2Seq+LSTM的方式訓練出Model
+
++++
+
+##### Seq2Seq
+![](https://i.imgur.com/Vlm0rBw.png)
