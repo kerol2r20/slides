@@ -71,7 +71,7 @@ Label: 某種情緒的分數  
 4. AI is powerful, but it is hard to learn => *0.35*
 5. AI is powerful even though it is hard to learn => *0.73*
 
-+++
+---
 
 #### Summarization
 給予文章，自動訓練出文章摘要。
@@ -81,4 +81,4 @@ Label: 某種情緒的分數  
 ##### 訓練方式
 Feature: 新聞內文  
 Label: 新聞標題  
-依照這種配對方式使用**Seq2Seq**的方式產生新的語句。
+使用Seq2Seq+LSTM的方式訓練出Model
