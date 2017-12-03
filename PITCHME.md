@@ -47,3 +47,25 @@
 
 +++
 
+#### Word2Vec不足點
+Word2Vec不知道整句句法的前後文關係，它是面向單詞的訓練方式，不是面向語句。
+
+---
+
+### Sentiment Analysis
+給與機器一段文字，讓機器判斷某種Feature的強度，例如： 某句話正面負面，開心難過......
+
++++
+
+#### 訓練方式
+Feature: 語句
+Label: 某種情緒的分數
+
++++
+
+#### 訓練成果
+1. It is bad => *0.05*
+2. It is not bad => *0.9*
+3. AI is hard to learn, but it is powerful => 0.86
+4. AI is powerful, but it is hard to learn => 0.35
+5. AI is powerful even though it is hard to learn => 0.73
