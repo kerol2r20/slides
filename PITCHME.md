@@ -5,13 +5,11 @@
 ---
 
 ## Tools
-1. Pre-processing
- 1. Jieba 分詞
- 1. Word2Vec 量化
-1. NLP
- 1. RNN(LSTM)
- 1. GAN
- 1. Seq2Seq
+1. Jieba 分詞
+1. Word2Vec 量化
+1. RNN(LSTM)
+1. GAN
+1. Seq2Seq
 
 ---
 
@@ -26,8 +24,20 @@
 
 #### 訓練方式
 訓練大量文章之**前後文**，找到詞彙之間對應的平面關係。
+
++++
+
 ![](http://mccormickml.com/assets/word2vec/training_data.png)
 
 +++
 
+#### 訓練成果
+1. 找到相似詞
+![](https://raw.githubusercontent.com/dominiek/word2vec-explorer/master/public/screenshots/tsne-10k.png?token=AABIgK4MtRPmjZz5pWmdlLwlZtC8-hBqks5W6aenwA%3D%3D)
+
+1. 找到詞彙之間的相對應關係
+ 1. 研究生：實驗室 = 公務員：？ Ans: 辦公室
+ 1. 老師：學生 = 主管：？ Ans： 員工
+
++++
 
