@@ -9,3 +9,11 @@
   * Full-connection
   * CNN
   * RNN
+* Deep Learning
+  * Full-connection
+  * CNN
+  * RNN
+* Deep Learning
+  * Full-connection
+  * CNN
+  * RNN
