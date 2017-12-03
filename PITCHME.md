@@ -34,7 +34,7 @@
 #### 訓練成果
 1. 找到相似詞
 
-+++?image=https://raw.githubusercontent.com/dominiek/word2vec-explorer/master/public/screenshots/tsne-10k.png?size=auto
+![](https://raw.githubusercontent.com/dominiek/word2vec-explorer/master/public/screenshots/tsne-10k.png?size=auto)
 
 1. 找到詞彙之間的相對應關係
  1. 研究生：實驗室 = 公務員：？ Ans: 辦公室
