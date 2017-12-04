@@ -65,11 +65,11 @@ Label: 某種情緒的分數  
 +++
 
 #### 訓練成果
-1. It is bad => *0.05*
-2. It is not bad => *0.9* |
-3. AI is hard to learn, but it is powerful => *0.86* |
-4. AI is powerful, but it is hard to learn => *0.35* |
-5. AI is powerful even though it is hard to learn => *0.73* |
+- It is bad => *0.05*
+- It is not bad => *0.9* |
+- AI is hard to learn, but it is powerful => *0.86* |
+- AI is powerful, but it is hard to learn => *0.35* |
+- AI is powerful even though it is hard to learn => *0.73* |
 
 ---
 
