@@ -1,6 +1,6 @@
 ## NLP WITH Deep Learning
 ### Yu-hsin Lu
-### 2017/12/03
+### 2017/12/04
 
 ---
 
