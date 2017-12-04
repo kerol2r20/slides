@@ -87,3 +87,10 @@ Label: 新聞標題  
 
 ##### Seq2Seq
 ![](https://i.imgur.com/Vlm0rBw.png)
+
+---
+
+## 瓶頸
+1. 問題定義
+2. 資料量
+3. 訓練設備
